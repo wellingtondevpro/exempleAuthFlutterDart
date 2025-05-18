@@ -30,6 +30,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dio: ^5.0.0             # HTTP client moderno
+  flutter_riverpod: ^2.4.0
+  freezed_annotation: ^2.2.0
+  json_annotation: ^4.8.0
 
 
   # The following adds the Cupertino Icons font to your application.
